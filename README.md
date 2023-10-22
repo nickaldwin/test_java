@@ -1,2 +1,2 @@
 # test_java
-x
+My first atempt on java
